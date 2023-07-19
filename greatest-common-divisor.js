@@ -1,7 +1,7 @@
 let a = 24;
 let b = 18;
 
-let small = null;
+let small
 let Divsi
 
 a <= b ? small = a : small = b;
